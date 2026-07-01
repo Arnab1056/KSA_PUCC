@@ -29,10 +29,10 @@ export default function Hero() {
           {/* Heading */}
 
           <h1 className="mt-8 text-6xl font-extrabold leading-tight text-[#FF9072]">
-            Where Code
+            Challenging Boundaries,
             <br />
             <span className="text-[#03B4BC]">
-              Meets Community.
+              Reaching New Heights
             </span>
           </h1>
 
