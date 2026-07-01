@@ -1,7 +1,7 @@
 export default function Stats() {
   const stats = [
     {
-      number: "500+",
+      number: "600+",
       label: "Active Members",
     },
     {
@@ -9,11 +9,11 @@ export default function Stats() {
       label: "Specialized Wings",
     },
     {
-      number: "40+",
+      number: "19+",
       label: "Events / Year",
     },
     {
-      number: "12",
+      number: "10",
       label: "Years Running",
     },
   ];
