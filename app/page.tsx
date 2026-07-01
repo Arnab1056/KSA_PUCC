@@ -5,6 +5,9 @@ import Stats from "./components/status";
 import Wings from "./components/wings/wings";
 import Events from "./components/Events";
 import Achievements from "./components/Achievements";
+import Testimonials from "./components/Testimonials";
+import CTASection from "./components/CTASection";
+import Footer from "./components/Footer";
 export default function Home() {
   return (
     <main className="bg-white">
@@ -15,6 +18,9 @@ export default function Home() {
       <Wings />
       <Events />
       <Achievements />
+      <Testimonials />
+      <CTASection />
+       <Footer />
     </main>
   );
 }
