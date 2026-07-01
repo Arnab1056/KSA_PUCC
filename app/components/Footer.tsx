@@ -8,7 +8,7 @@ export default function Footer() {
             <div className="flex items-start gap-4">
               <div className="flex h-14 w-14 items-center justify-center rounded-2xl border border-white/20 bg-white/10">
                 <img
-                  src="/images/university-logo.png"
+                  src="/images/ulogo.png"
                   alt="University Logo"
                   className="h-11 w-auto"
                 />
